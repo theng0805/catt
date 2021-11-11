@@ -1,0 +1,22 @@
+/* body{
+    
+} */
+#test{
+    width: auto;
+    background-image: url(cat.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    min-width: 900px;
+}
+h1{
+    /* color:rgb(146, 41, 41) */
+    color: rgb(158, 29, 29);
+    text-shadow: 2px 2px rgb(65, 55, 55);
+}
+/* @media only screen and (max-width:900px) {
+    #test{
+        background-attachment: fixed;
+        background-image: linear-gradient(rgba(4, 10, 34, 0.24),rgba(4, 10, 34, 0.24)),url(cat.jpg);
+    }
+} */
